@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @vsv007
-- 👀 I’m interested in learning Frameworks
-- 🌱 I’m currently learning Spring tools, Spring Frame work.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Srnivasa Vamsi Bhargav Vemuri.
+- 👀 I’m interested in learning new Frameworks.
+- 🌱 I’m currently learning Spring tools, Spring Boot Frame work.
 - 📫 How to reach me - bhargavvemuri77@gmail.com
 
 <!---
